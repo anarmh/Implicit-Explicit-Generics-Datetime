@@ -1,0 +1,14 @@
+D:\C#\Implicit-Explicit-Generics-Datetime\Implisit operation for Celcius\Implisit operation for Celcius\Implisit operation for Celcius\bin\Debug\netcoreapp3.1\Implisit operation for Celcius.exe
+D:\C#\Implicit-Explicit-Generics-Datetime\Implisit operation for Celcius\Implisit operation for Celcius\Implisit operation for Celcius\bin\Debug\netcoreapp3.1\Implisit operation for Celcius.deps.json
+D:\C#\Implicit-Explicit-Generics-Datetime\Implisit operation for Celcius\Implisit operation for Celcius\Implisit operation for Celcius\bin\Debug\netcoreapp3.1\Implisit operation for Celcius.runtimeconfig.json
+D:\C#\Implicit-Explicit-Generics-Datetime\Implisit operation for Celcius\Implisit operation for Celcius\Implisit operation for Celcius\bin\Debug\netcoreapp3.1\Implisit operation for Celcius.runtimeconfig.dev.json
+D:\C#\Implicit-Explicit-Generics-Datetime\Implisit operation for Celcius\Implisit operation for Celcius\Implisit operation for Celcius\bin\Debug\netcoreapp3.1\Implisit operation for Celcius.dll
+D:\C#\Implicit-Explicit-Generics-Datetime\Implisit operation for Celcius\Implisit operation for Celcius\Implisit operation for Celcius\bin\Debug\netcoreapp3.1\Implisit operation for Celcius.pdb
+D:\C#\Implicit-Explicit-Generics-Datetime\Implisit operation for Celcius\Implisit operation for Celcius\Implisit operation for Celcius\obj\Debug\netcoreapp3.1\Implisit operation for Celcius.csproj.AssemblyReference.cache
+D:\C#\Implicit-Explicit-Generics-Datetime\Implisit operation for Celcius\Implisit operation for Celcius\Implisit operation for Celcius\obj\Debug\netcoreapp3.1\Implisit operation for Celcius.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Implicit-Explicit-Generics-Datetime\Implisit operation for Celcius\Implisit operation for Celcius\Implisit operation for Celcius\obj\Debug\netcoreapp3.1\Implisit operation for Celcius.AssemblyInfoInputs.cache
+D:\C#\Implicit-Explicit-Generics-Datetime\Implisit operation for Celcius\Implisit operation for Celcius\Implisit operation for Celcius\obj\Debug\netcoreapp3.1\Implisit operation for Celcius.AssemblyInfo.cs
+D:\C#\Implicit-Explicit-Generics-Datetime\Implisit operation for Celcius\Implisit operation for Celcius\Implisit operation for Celcius\obj\Debug\netcoreapp3.1\Implisit operation for Celcius.csproj.CoreCompileInputs.cache
+D:\C#\Implicit-Explicit-Generics-Datetime\Implisit operation for Celcius\Implisit operation for Celcius\Implisit operation for Celcius\obj\Debug\netcoreapp3.1\Implisit operation for Celcius.dll
+D:\C#\Implicit-Explicit-Generics-Datetime\Implisit operation for Celcius\Implisit operation for Celcius\Implisit operation for Celcius\obj\Debug\netcoreapp3.1\Implisit operation for Celcius.pdb
+D:\C#\Implicit-Explicit-Generics-Datetime\Implisit operation for Celcius\Implisit operation for Celcius\Implisit operation for Celcius\obj\Debug\netcoreapp3.1\Implisit operation for Celcius.genruntimeconfig.cache
