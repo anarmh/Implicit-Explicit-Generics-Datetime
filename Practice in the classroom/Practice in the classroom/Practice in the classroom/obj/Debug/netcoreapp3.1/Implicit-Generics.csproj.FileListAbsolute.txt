@@ -1,0 +1,14 @@
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Implicit-Generics.exe
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Implicit-Generics.deps.json
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Implicit-Generics.runtimeconfig.json
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Implicit-Generics.runtimeconfig.dev.json
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Implicit-Generics.dll
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Implicit-Generics.pdb
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Implicit-Generics.csproj.AssemblyReference.cache
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Implicit-Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Implicit-Generics.AssemblyInfoInputs.cache
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Implicit-Generics.AssemblyInfo.cs
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Implicit-Generics.csproj.CoreCompileInputs.cache
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Implicit-Generics.dll
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Implicit-Generics.pdb
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Implicit-Generics.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anar\\Desktop\\Implicit-Explicit-Generics-Datetime\\Implisit operation for Celcius\\Implisit operation for Celcius\\Implisit operation for Celcius\\Implisit operation for Celcius.csproj": {}
+    "C:\\Users\\Anar\\Desktop\\Practice in the classroom\\Practice in the classroom\\Practice in the classroom\\Implicit-Generics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anar\\Desktop\\Implicit-Explicit-Generics-Datetime\\Implisit operation for Celcius\\Implisit operation for Celcius\\Implisit operation for Celcius\\Implisit operation for Celcius.csproj": {
+    "C:\\Users\\Anar\\Desktop\\Practice in the classroom\\Practice in the classroom\\Practice in the classroom\\Implicit-Generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anar\\Desktop\\Implicit-Explicit-Generics-Datetime\\Implisit operation for Celcius\\Implisit operation for Celcius\\Implisit operation for Celcius\\Implisit operation for Celcius.csproj",
-        "projectName": "Implisit operation for Celcius",
-        "projectPath": "C:\\Users\\Anar\\Desktop\\Implicit-Explicit-Generics-Datetime\\Implisit operation for Celcius\\Implisit operation for Celcius\\Implisit operation for Celcius\\Implisit operation for Celcius.csproj",
+        "projectUniqueName": "C:\\Users\\Anar\\Desktop\\Practice in the classroom\\Practice in the classroom\\Practice in the classroom\\Implicit-Generics.csproj",
+        "projectName": "Implicit-Generics",
+        "projectPath": "C:\\Users\\Anar\\Desktop\\Practice in the classroom\\Practice in the classroom\\Practice in the classroom\\Implicit-Generics.csproj",
         "packagesPath": "C:\\Users\\Anar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anar\\Desktop\\Implicit-Explicit-Generics-Datetime\\Implisit operation for Celcius\\Implisit operation for Celcius\\Implisit operation for Celcius\\obj\\",
+        "outputPath": "C:\\Users\\Anar\\Desktop\\Practice in the classroom\\Practice in the classroom\\Practice in the classroom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anar\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Practice in the classroom/1.0.0": {
+        "runtime": {
+          "Practice in the classroom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practice in the classroom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.csproj.AssemblyReference.cache
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.AssemblyInfoInputs.cache
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.AssemblyInfo.cs
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.csproj.CoreCompileInputs.cache
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Practice in the classroom.exe
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Practice in the classroom.deps.json
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Practice in the classroom.runtimeconfig.json
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Practice in the classroom.runtimeconfig.dev.json
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Practice in the classroom.dll
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Practice in the classroom.pdb
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.dll
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.pdb
+C:\Users\Anar\Desktop\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.genruntimeconfig.cache
