@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anar\\Desktop\\Implicit-Explicit-Generics-Datetime\\Employee type for array\\Employee type for array\\Employee type for array.csproj",
+      "projectUniqueName": "C:\\Users\\Anar\\Desktop\\C#\\Implicit-Explicit-Generics-Datetime\\Employee type for array\\Employee type for array\\Employee type for array.csproj",
       "projectName": "Employee type for array",
-      "projectPath": "C:\\Users\\Anar\\Desktop\\Implicit-Explicit-Generics-Datetime\\Employee type for array\\Employee type for array\\Employee type for array.csproj",
+      "projectPath": "C:\\Users\\Anar\\Desktop\\C#\\Implicit-Explicit-Generics-Datetime\\Employee type for array\\Employee type for array\\Employee type for array.csproj",
       "packagesPath": "C:\\Users\\Anar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anar\\Desktop\\Implicit-Explicit-Generics-Datetime\\Employee type for array\\Employee type for array\\obj\\",
+      "outputPath": "C:\\Users\\Anar\\Desktop\\C#\\Implicit-Explicit-Generics-Datetime\\Employee type for array\\Employee type for array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anar\\AppData\\Roaming\\NuGet\\NuGet.Config",

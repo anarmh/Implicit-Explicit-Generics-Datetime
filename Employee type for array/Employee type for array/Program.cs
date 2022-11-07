@@ -11,23 +11,17 @@ namespace Employee_type_for_array
             DateTime start = DateTime.Now;
             DateTime end = DateTime.Now.AddMonths(10);
 
-            EmployeeList<Employee>employee = new EmployeeList<Employee>(start,end,3000);
-            employee.Add(new Employee { Name = "Anar" });
-            employee.Add(new Employee { Surname = "Huseynov" });
-            employee.Add(new Employee { Birthday = "12.02.2023" });
-            employee.Add(new Employee { Salary = 2500 });
-
-            employee.Add(new Employee { Name = "Cavid" });
-            employee.Add(new Employee { Surname = "Rzayev" });
-            employee.Add(new Employee { Birthday = "15.10.2022" });
-            employee.Add(new Employee { Salary = 800 });
-            var resultemployee= employee.GetAll();
-            foreach (var item in resultemployee)
+            Employee employee1 = new Employee("Anar","Huseynov",DateTime.Parse("12/02/2023"),2500);
+            Employee employee2 = new Employee("Cavid","Rzayev",DateTime.Parse("18/11/2022"),4000);
+            Employee employee3 = new Employee("Rafael","Babaverdiyev",DateTime.Parse("15/03/2023"),3000);
+            Employee[] employees = { employee1, employee2, employee3 };
+            foreach (var item in employees)
             {
-                Console.WriteLine(item.Birthday);
+                Console.WriteLine($"{item.Name} {item.Surname} {item.Birthday} {item.Salary}");
             }
-             
-            
+
+            Console.WriteLine(employee1.EmployeeCount(start,end,2500));
+           
         }
     }
 }
