@@ -21,14 +21,6 @@ namespace Employee_type_for_array.Models
             Surname = surname;
             Salary = salary;
         }
-        public void Add(Employee employee)
-        {
-            Array.Resize(ref _employees, _employees.Length + 1);
-            _employees[_employees.Length - 1] = employee;
-        }
-
-
-
         public int EmployeeCount(DateTime start,DateTime end,double salary)
         {
             if (start < Birthday && Birthday < end && salary > 2000)
