@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anar\\Desktop\\Implicit-Explicit-Generics-Datetime\\Employee type for array\\Employee type for array\\Employee type for array.csproj": {}
+    "D:\\C#\\Implicit-Explicit-Generics-Datetime\\Employee type for array\\Employee type for array\\Employee type for array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anar\\Desktop\\Implicit-Explicit-Generics-Datetime\\Employee type for array\\Employee type for array\\Employee type for array.csproj": {
+    "D:\\C#\\Implicit-Explicit-Generics-Datetime\\Employee type for array\\Employee type for array\\Employee type for array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anar\\Desktop\\Implicit-Explicit-Generics-Datetime\\Employee type for array\\Employee type for array\\Employee type for array.csproj",
+        "projectUniqueName": "D:\\C#\\Implicit-Explicit-Generics-Datetime\\Employee type for array\\Employee type for array\\Employee type for array.csproj",
         "projectName": "Employee type for array",
-        "projectPath": "C:\\Users\\Anar\\Desktop\\Implicit-Explicit-Generics-Datetime\\Employee type for array\\Employee type for array\\Employee type for array.csproj",
+        "projectPath": "D:\\C#\\Implicit-Explicit-Generics-Datetime\\Employee type for array\\Employee type for array\\Employee type for array.csproj",
         "packagesPath": "C:\\Users\\Anar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anar\\Desktop\\Implicit-Explicit-Generics-Datetime\\Employee type for array\\Employee type for array\\obj\\",
+        "outputPath": "D:\\C#\\Implicit-Explicit-Generics-Datetime\\Employee type for array\\Employee type for array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anar\\AppData\\Roaming\\NuGet\\NuGet.Config",

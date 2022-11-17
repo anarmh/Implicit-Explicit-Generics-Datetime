@@ -9,7 +9,12 @@ namespace Employee_type_for_array.Models
     {
         public string Name { get; set; }
         public string Surname { get; set; }
-        public string Birthday { get; set; } = "12.02.2023";
+        public DateTime Birthday { get; set; } 
         public double Salary { get; set; }
+        public Employee(DateTime birthday,double salary)
+        {
+            Birthday = birthday;
+            Salary = salary;
+        }
     }
 }
