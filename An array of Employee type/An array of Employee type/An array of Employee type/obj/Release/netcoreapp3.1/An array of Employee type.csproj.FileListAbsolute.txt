@@ -1,0 +1,14 @@
+C:\Users\Anar\Desktop\An array of Employee type\An array of Employee type\An array of Employee type\bin\Release\netcoreapp3.1\An array of Employee type.exe
+C:\Users\Anar\Desktop\An array of Employee type\An array of Employee type\An array of Employee type\bin\Release\netcoreapp3.1\An array of Employee type.deps.json
+C:\Users\Anar\Desktop\An array of Employee type\An array of Employee type\An array of Employee type\bin\Release\netcoreapp3.1\An array of Employee type.runtimeconfig.json
+C:\Users\Anar\Desktop\An array of Employee type\An array of Employee type\An array of Employee type\bin\Release\netcoreapp3.1\An array of Employee type.runtimeconfig.dev.json
+C:\Users\Anar\Desktop\An array of Employee type\An array of Employee type\An array of Employee type\bin\Release\netcoreapp3.1\An array of Employee type.dll
+C:\Users\Anar\Desktop\An array of Employee type\An array of Employee type\An array of Employee type\bin\Release\netcoreapp3.1\An array of Employee type.pdb
+C:\Users\Anar\Desktop\An array of Employee type\An array of Employee type\An array of Employee type\obj\Release\netcoreapp3.1\An array of Employee type.csproj.AssemblyReference.cache
+C:\Users\Anar\Desktop\An array of Employee type\An array of Employee type\An array of Employee type\obj\Release\netcoreapp3.1\An array of Employee type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anar\Desktop\An array of Employee type\An array of Employee type\An array of Employee type\obj\Release\netcoreapp3.1\An array of Employee type.AssemblyInfoInputs.cache
+C:\Users\Anar\Desktop\An array of Employee type\An array of Employee type\An array of Employee type\obj\Release\netcoreapp3.1\An array of Employee type.AssemblyInfo.cs
+C:\Users\Anar\Desktop\An array of Employee type\An array of Employee type\An array of Employee type\obj\Release\netcoreapp3.1\An array of Employee type.csproj.CoreCompileInputs.cache
+C:\Users\Anar\Desktop\An array of Employee type\An array of Employee type\An array of Employee type\obj\Release\netcoreapp3.1\An array of Employee type.dll
+C:\Users\Anar\Desktop\An array of Employee type\An array of Employee type\An array of Employee type\obj\Release\netcoreapp3.1\An array of Employee type.pdb
+C:\Users\Anar\Desktop\An array of Employee type\An array of Employee type\An array of Employee type\obj\Release\netcoreapp3.1\An array of Employee type.genruntimeconfig.cache
